@@ -1,6 +1,6 @@
 ### 👋
 
-Hi there! I'm a frontend developer focused on creating beautiful and functional websites and applications. I have a strong background in JavaScript (ES6+), ReactJS, TypeScript, HTML5, CSS3, BootStrap, Tailwind CSS, even game development using Unity3D and C#.
+Hi there! I'm a frontend developer focused on creating beautiful and functional websites and applications. I have a strong background in JavaScript (ES6+), ReactJS, TypeScript, HTML5, CSS3, BootStrap, Tailwind CSS, even [game development using Unity3D and C#](https://farfama.itch.io/).
 
 I approach every project the best UX practices to ensure that users have the best experience possible. When I'm not coding, you can find me exploring new technologies, making games, studying Japanese, and exploring Tokyo on foot and bicycle.
 
